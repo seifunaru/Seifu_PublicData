@@ -19,7 +19,7 @@ This application will login to your Patreon account in order to collect some req
 
 ## To summarize: You may grant Seifu Launcher permission to access Patreon as a third-party app.
 
-You may grant the Seifu Launcher access to your Patreon account information. Patreon accounts can be related to other third-party applications such as Google, YouTube, Facebook, Instagram, Twitter, and Twitch, in order for some Patreon features to operate. For further information regarding Patreon accounts, check ot [https://www.patreon.com/policy/legal?gclid=Cj0KCQiA8ICOBhDmARIsAEGI6o3as7mJf2FuA1jRp4i-v2RZU_XEChprPZo0BDVmJaWEoLsXNaHha9kaAkHhEALw_wcB](Patreon Terms of Service).
+You may grant the Seifu Launcher access to your Patreon account information. Patreon accounts can be related to other third-party applications such as Google, YouTube, Facebook, Instagram, Twitter, and Twitch, in order for some Patreon features to operate. For further information regarding Patreon accounts, check [https://www.patreon.com/policy/legal?gclid=Cj0KCQiA8ICOBhDmARIsAEGI6o3as7mJf2FuA1jRp4i-v2RZU_XEChprPZo0BDVmJaWEoLsXNaHha9kaAkHhEALw_wcB](Patreon Terms of Service).
 
 
 # Redistribution.

@@ -12,14 +12,14 @@ These are Seifu Launcher’s terms of use, and they apply to all users who use t
 
 ## To summarize: The Seifu Launcher operates through your Patreon account, created at "https://www.patreon.com" and managed by Patreon Inc.
 
-This application will login to your Patreon account in order to collect some required user data (more information on Seifu Launcher's  [https://github.com/seifunaru/Seifu_PublicData/blob/main/SL_PrivacyPolicy.md](Privacy Policy)). Because of this, all account-related information must be managed through Patreon Inc., and not myself directly. Please, contact Patreon Inc. immediately if you believe your account is compromised, as I can not modify nor change your account information. 
+This application will login to your Patreon account in order to collect some required user data (more information on Seifu Launcher's Privacy Policy at "https://github.com/seifunaru/Seifu_PublicData/blob/main/SL_PrivacyPolicy.md"). Because of this, all account-related information must be managed through Patreon Inc., and not myself directly. Please, contact Patreon Inc. immediately if you believe your account is compromised, as I can not modify nor change your account information. 
 
 
 # Patreon as a third-party app.
 
 ## To summarize: You may grant Seifu Launcher permission to access Patreon as a third-party app.
 
-You may grant the Seifu Launcher access to your Patreon account information. Patreon accounts can be related to other third-party applications such as Google, YouTube, Facebook, Instagram, Twitter, and Twitch, in order for some Patreon features to operate. For further information regarding Patreon accounts, check [https://www.patreon.com/policy/legal?gclid=Cj0KCQiA8ICOBhDmARIsAEGI6o3as7mJf2FuA1jRp4i-v2RZU_XEChprPZo0BDVmJaWEoLsXNaHha9kaAkHhEALw_wcB](Patreon Terms of Service).
+You may grant the Seifu Launcher access to your Patreon account information. Patreon accounts can be related to other third-party applications such as Google, YouTube, Facebook, Instagram, Twitter, and Twitch, in order for some Patreon features to operate. For further information regarding Patreon accounts, check Patreon Terms of Service at "https://www.patreon.com/policy/legal?gclid=Cj0KCQiA8ICOBhDmARIsAEGI6o3as7mJf2FuA1jRp4i-v2RZU_XEChprPZo0BDVmJaWEoLsXNaHha9kaAkHhEALw_wcB".
 
 
 # Redistribution.
